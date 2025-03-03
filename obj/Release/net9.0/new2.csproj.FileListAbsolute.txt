@@ -1,0 +1,165 @@
+C:\Users\kevin.mistry\Desktop\new2\bin\Release\net9.0\appsettings.Development.json
+C:\Users\kevin.mistry\Desktop\new2\bin\Release\net9.0\appsettings.json
+C:\Users\kevin.mistry\Desktop\new2\bin\Release\net9.0\new2.staticwebassets.runtime.json
+C:\Users\kevin.mistry\Desktop\new2\bin\Release\net9.0\new2.staticwebassets.endpoints.json
+C:\Users\kevin.mistry\Desktop\new2\bin\Release\net9.0\new2.exe
+C:\Users\kevin.mistry\Desktop\new2\bin\Release\net9.0\new2.deps.json
+C:\Users\kevin.mistry\Desktop\new2\bin\Release\net9.0\new2.runtimeconfig.json
+C:\Users\kevin.mistry\Desktop\new2\bin\Release\net9.0\new2.dll
+C:\Users\kevin.mistry\Desktop\new2\bin\Release\net9.0\new2.pdb
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\new2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\new2.AssemblyInfoInputs.cache
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\new2.AssemblyInfo.cs
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\new2.csproj.CoreCompileInputs.cache
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\new2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\scopedcss\bundle\new2.styles.css
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\scopedcss\projectbundle\new2.bundle.scp.css
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\iey0b047oe-khy4lop6wu.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\m63kz9schm-bqjiyaj88i.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\ztvaqzjql9-c2jlpeoesf.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\aojg8c0jbh-erw9l3u2r3.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\alhplkpepj-aexeepp0ev.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\d67zr6uxbj-d7shbmvgxk.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\qijxsp0x29-ausgxo2sd3.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\lkeiz0dwh5-k8d9w2qqmf.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\k1ka9d561z-cosvhxvwiu.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\0wtr5vo1au-ub07r2b239.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\xbr1at12wp-fvhpjtyr6v.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\dfebx8x3rd-b7pk76d08c.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\fquley6845-fsbi9cje9m.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\mor369as1o-rzd6atqjts.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\ywa28z29i8-ee0r1s7dh0.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\8yrlumqmqy-dxx9fxp4il.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\bvx93qqfl4-jd9uben2k1.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\h5yi4ug0hi-khv3u5hwcm.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\4b0gym2cgb-r4e9w2rdcm.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\ydyf0nkgtw-lcd1t2u6c8.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\wt0blc9nbq-c2oey78nd0.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\0nqiwn836p-tdbxkamptv.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\oh1ipbq74j-j5mq2jizvt.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\rnku18vnyl-06098lyss8.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\idkokbnqft-nvvlpmu67g.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\eefakyze0z-s35ty4nyc5.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\6k118xqqv6-pj5nd1wqec.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\5j7ks0fbt1-46ein0sx1k.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\5zjahk0iu6-v0zj4ognzu.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\n9mf4wxwyn-37tfw0ft22.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\bji03m6h8x-hrwsygsryq.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\7llohc0rkq-pk9g2wxc8p.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\8qqpw90oi8-ft3s53vfgj.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\v6eujf1lic-6cfz1n2cew.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\3j5utr4w9j-6pdc2jztkx.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\jo8auu1k35-493y06b0oq.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\c5bc21frda-iovd86k7lj.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\90jsnmap3a-vr1egmr9el.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\xpqsb7zea9-kbrnm935zg.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\tstbxnzrho-jj8uyg4cgr.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\rd0muee3ay-y7v9cxd14o.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\osdm24xu68-notf2xhcfb.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\g33exdy70c-h1s4sie4z3.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\4605bnch1b-63fj8s7r0e.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\0sdsrl22ho-0j3bgjxly4.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\f2q1ssgrg8-k0axba1zha.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\compressed\e99i8pgasi-k0axba1zha.gz
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\staticwebassets\msbuild.new2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\staticwebassets\msbuild.new2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\staticwebassets\msbuild.build.new2.props
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.new2.props
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.new2.props
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\staticwebassets.pack.json
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\new2.dll
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\refint\new2.dll
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\new2.pdb
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\new2.genruntimeconfig.cache
+C:\Users\kevin.mistry\Desktop\new2\obj\Release\net9.0\ref\new2.dll
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\appsettings.Development.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\appsettings.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\new2.staticwebassets.runtime.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\new2.staticwebassets.endpoints.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\new2.exe
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\new2.deps.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\new2.runtimeconfig.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\new2.dll
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\new2.pdb
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.AssemblyInfoInputs.cache
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.AssemblyInfo.cs
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.csproj.CoreCompileInputs.cache
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.sourcelink.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\scopedcss\bundle\new2.styles.css
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\scopedcss\projectbundle\new2.bundle.scp.css
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\iey0b047oe-khy4lop6wu.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\m63kz9schm-t1cqhe9u97.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\ztvaqzjql9-c2jlpeoesf.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\aojg8c0jbh-sejl45xvog.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\alhplkpepj-aexeepp0ev.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\d67zr6uxbj-xvp3kq03qx.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\qijxsp0x29-ausgxo2sd3.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\lkeiz0dwh5-22vffe00uq.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\k1ka9d561z-cosvhxvwiu.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\0wtr5vo1au-qesaa3a1fm.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\xbr1at12wp-fvhpjtyr6v.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\dfebx8x3rd-tmc1g35s3z.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\fquley6845-fsbi9cje9m.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\mor369as1o-rxsg74s51o.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\ywa28z29i8-ee0r1s7dh0.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\8yrlumqmqy-q9ht133ko3.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\bvx93qqfl4-jd9uben2k1.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\h5yi4ug0hi-gye83jo8yx.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\4b0gym2cgb-r4e9w2rdcm.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\ydyf0nkgtw-wl58j5mj3v.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\wt0blc9nbq-c2oey78nd0.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\0nqiwn836p-d4r6k3f320.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\oh1ipbq74j-j5mq2jizvt.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\rnku18vnyl-keugtjm085.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\idkokbnqft-nvvlpmu67g.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\eefakyze0z-zub09dkrxp.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\6k118xqqv6-pj5nd1wqec.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\5j7ks0fbt1-43atpzeawx.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\5zjahk0iu6-v0zj4ognzu.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\n9mf4wxwyn-ynyaa8k90p.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\bji03m6h8x-hrwsygsryq.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\7llohc0rkq-c63t5i9ira.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\8qqpw90oi8-ft3s53vfgj.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\v6eujf1lic-4094rpi4f9.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\3j5utr4w9j-6pdc2jztkx.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\jo8auu1k35-hd3gran6i8.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\c5bc21frda-iovd86k7lj.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\90jsnmap3a-ltid2c489k.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\xpqsb7zea9-kbrnm935zg.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\tstbxnzrho-8vyfqsqgz1.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\rd0muee3ay-y7v9cxd14o.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\osdm24xu68-u9q1upor1n.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\g33exdy70c-h1s4sie4z3.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\4605bnch1b-4d85u1mtcx.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\0sdsrl22ho-0j3bgjxly4.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\f2q1ssgrg8-k0axba1zha.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\compressed\e99i8pgasi-k0axba1zha.gz
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets\msbuild.new2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets\msbuild.new2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets\msbuild.build.new2.props
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.new2.props
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.new2.props
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets.pack.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.dll
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\refint\new2.dll
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.pdb
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.genruntimeconfig.cache
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\ref\new2.dll
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\Azure.Core.dll
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\System.ClientModel.dll
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\System.Memory.Data.dll
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.csproj.AssemblyReference.cache
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\new2.csproj.Up2Date

@@ -1,0 +1,6 @@
+projectKey=.Net
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=.Net
+ceTaskId=9a1dfc60-59d6-44bf-b042-ca091cc24f90
+ceTaskUrl=http://localhost:9000/api/ce/task?id=9a1dfc60-59d6-44bf-b042-ca091cc24f90

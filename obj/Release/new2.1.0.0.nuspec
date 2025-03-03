@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>new2</id>
+    <version>1.0.0</version>
+    <authors>new2</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="99c4700a7990e0d8149ba7825360aec5064f5c87" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net9.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net9.0/appsettings.Development.json" buildAction="Content" />
+      <files include="any/net9.0/appsettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\new2.runtimeconfig.json" target="lib\net9.0\new2.runtimeconfig.json" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\new2.dll" target="lib\net9.0\new2.dll" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\appsettings.Development.json" target="content\appsettings.Development.json" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\appsettings.Development.json" target="contentFiles\any\net9.0\appsettings.Development.json" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\appsettings.json" target="content\appsettings.json" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\appsettings.json" target="contentFiles\any\net9.0\appsettings.json" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\scopedcss\projectbundle\new2.bundle.scp.css" target="staticwebassets\new2.k0axba1zha.bundle.scp.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\app.css" target="staticwebassets\app.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\favicon.png" target="staticwebassets\favicon.png" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.min.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.min.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.min.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.min.css" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.js" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.js.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.min.js" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.min.js.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.js" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets\msbuild.build.new2.props" target="build\new2.props" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.new2.props" target="buildMultiTargeting\new2.props" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.new2.props" target="buildTransitive\new2.props" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets\msbuild.new2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" target="build\Microsoft.AspNetCore.StaticWebAssetEndpoints.props" />
+    <file src="C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\obj\Release\net9.0\staticwebassets\msbuild.new2.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+  </files>
+</package>

@@ -1,0 +1,7 @@
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\publish\new2.exe
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\publish\appsettings.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\publish\new2.dll
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\publish\new2.deps.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\publish\new2.runtimeconfig.json
+C:\Users\krish.patel\Desktop\Project Dotnet\Dotnet_Weather-Counter\bin\Release\net9.0\publish\new2.pdb
